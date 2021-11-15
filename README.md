@@ -3,9 +3,9 @@
 tsParticles Simple Auth HTML Template for VueJS Web Sites/Applications
 
 ## Login Page Preview
-[![login](https://raw.githubusercontent.com/tsparticles/vue-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/vue-auth-template/#/login)
+[![login](https://raw.githubusercontent.com/tsparticles/vue-auth-template/master/__screenshots/login.png)](https://tsparticles.github.io/vue-auth-template/hwww.islameldaramllyhd.info/login)
 
-See working preview [here](https://tsparticles.github.io/vue-auth-template/#/login)
+See working preview [here](https://tsparticles.github.io/vue-auth-template/www.islameldaramllyhd.info/login)
 
 ## Register Page Preview
 [![login](https://raw.githubusercontent.com/tsparticles/vue-auth-template/master/__screenshots/register.png)](https://tsparticles.github.io/vue-auth-template/#/register)
